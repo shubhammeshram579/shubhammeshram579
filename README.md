@@ -1,4 +1,3 @@
-![Masthead](https://t4.ftcdn.net/jpg/06/71/95/51/240_F_671955196_vWlyZpc1ssBQKv2zraS1YL9b74fdB5ed.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
     <h3 align="center">A passionate Full Stack Web Developer and Machine Learning Enthusiast.</h3>
     <p align="center">Welcome to my GitHub profile! I specialize in building modern web applications and exploring cutting-edge AI technologies. I enjoy coding, learning new skills, and solving real-world problems.</p>

@@ -22,30 +22,30 @@
 
 <h3 align="left">Connect with me:</h3>
     <p align="left" style="display: flex; align-items: center; justify-content: start; gap: 10px;">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/smeshram579/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/smeshram579/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="https://www.linkedin.com/in/smeshram579/" height="30" width="40" /></a>
     <a href="https://twitter.com/shubham35502011" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="shubham35502011" height="30" width="40" /></a>
-    <a href="https://kaggle.com/https://www.kaggle.com/shubhammeshram579" target="blank"><img align="center"
+    <a href="https://www.kaggle.com/shubhammeshram579" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
                 alt="https://www.kaggle.com/shubhammeshram579" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/meshram8892/?hl=en" target="blank"><img align="center"
+    <a href="https://www.instagram.com/meshram8892/?hl=en" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="https://www.instagram.com/meshram8892/?hl=en" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://youtube.com/@easy_to_learn_ds?si=ratpli5hju18t76e"
+    <a href="https://youtube.com/@easy_to_learn_ds?si=ratpli5hju18t76e"
             target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                 alt="https://youtube.com/@easy_to_learn_ds?si=ratpli5hju18t76e" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shubhammeshram52" target="blank"><img
+    <a href="https://www.hackerrank.com/profile/shubhammeshram52" target="blank"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                 alt="https://www.hackerrank.com/profile/shubhammeshram52" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/u/shubhammeshram579/" target="blank"><img align="center"
+    <a href="https://leetcode.com/u/shubhammeshram579/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="https://leetcode.com/u/shubhammeshram579/" height="30" width="40" /></a>
-    <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center"
+    <a href="https://discord.com/channels/@me" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                 alt="https://discord.com/channels/@me" height="30" width="40" /></a>
     </p>

@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://shubhammeshram579.github.io/shubhcode.com/](https://shubhammeshram579.github.io/shubhcode.com/)
+- 👨‍💻 All of my projects are available at [Visit my portfolio website](https://shubhammeshram579.github.io/shubhcode.com/)
 
 - 💬 Ask me about **react.js, node.js and mongodb**
 

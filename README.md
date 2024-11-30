@@ -4,9 +4,9 @@
     <p align="center"><img width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1732837770~exp=1732841370~hmac=9e58c2b7c977045bd5dc29db16f86f53e1fd15d0fbef36cfe5a8b510948eff9b&w=996" alt="profile"></p>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammeshram579&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammeshram579" /> </p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhammeshram579" alt="shubhammeshram579" /></a> </p>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammeshram579&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammeshram579" /> </p>
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhammeshram579" alt="shubhammeshram579" /></a> </p>
+
 
 - 🔭 I’m currently working on [Pinterest clone App](https://github.com/shubhammeshram579/web-development/tree/main/reactjs/react%20practise/postFullStack%20project)
 

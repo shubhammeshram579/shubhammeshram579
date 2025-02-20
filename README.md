@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [Visit my portfolio website](https://shubhammeshram579.github.io/shubhcode.com/)
+- 👨‍💻 All of my projects are available at [Visit my portfolio website](https://portfolio-website-mu-orcin-55.vercel.app/)
 
 - 💬 Ask me about **react.js, node.js and mongodb**
 
-- 📫 How to reach me **shubhammeshram579@gmail.com**
+- 📫 How to reach me **shubhcode97@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 

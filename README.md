@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Pinterest clone App](https://github.com/shubhammeshram579/web-development/tree/main/reactjs/react%20practise/postFullStack%20project)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [Visit my portfolio website](https://portfolio-website-mu-orcin-55.vercel.app/)
 
-- 💬 Ask me about **react.js, node.js and mongodb**
+- 💬 Ask me about **react.js, node.js ,Express.js and mongodb**
 
 - 📫 How to reach me **shubhcode97@gmail.com**
 
